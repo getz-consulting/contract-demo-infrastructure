@@ -1,0 +1,1 @@
+This is a dummy Project for a kafka docker-compose Setup
